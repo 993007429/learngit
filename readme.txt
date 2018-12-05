@@ -6,3 +6,5 @@ test.
 Greating a new branch is quick.
 Greating a new branch is quick & simple.
 分支管理。
+测试bug分支。
+转到dev。
