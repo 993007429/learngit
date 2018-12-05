@@ -5,3 +5,4 @@ Git tracks changes.
 test.
 Greating a new branch is quick.
 Greating a new branch is quick & simple.
+分支管理。
